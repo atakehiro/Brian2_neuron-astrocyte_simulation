@@ -1,5 +1,7 @@
 # Brian2_neuron-astrocyte_simulation
 
+Simulation of neuron-astrocyte network with Brian 2
+
 ## Reference
 Modeling neuron–glia interactions with the Brian 2 simulator
 https://www.biorxiv.org/content/10.1101/198366v1
