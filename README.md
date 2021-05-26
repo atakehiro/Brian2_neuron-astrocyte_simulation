@@ -14,7 +14,3 @@ Anaconda
 
 Brian2==2.3.0.2
 
-## Author
-Takehiro Ajioka
-
-E-mail:1790651m@stu.kobe-u.ac.jp
