@@ -3,8 +3,7 @@
 Simulation of neuron-astrocyte network with Brian 2
 
 ## Reference
-Modeling neuron–glia interactions with the Brian 2 simulator
-https://www.biorxiv.org/content/10.1101/198366v1
+Modeling neuron-glia interactions with the Brian 2 simulator Marcel Stimberg, Dan F. M. Goodman, Romain Brette, Maurizio De Pittà bioRxiv 198366; doi: https://doi.org/10.1101/198366
 
 ## Environment
 
